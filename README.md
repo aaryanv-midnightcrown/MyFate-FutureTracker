@@ -138,3 +138,13 @@ The design reinforces trust, clarity, and intentionality.
 ## 🎯 In Summary
 
 **MyFate** is not just an academic tool — it is a decision clarity platform. By combining transparent inputs, practical features, and student-centered design, **MyFate** helps learners understand consequences, plan responsibly, and take control of their academic future before small mistakes become permanent setbacks.
+
+---
+
+
+## License
+
+This project is not open source.
+
+All rights are reserved by the author.  
+The code and concepts are shared for viewing and evaluation purposes only.
