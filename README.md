@@ -32,23 +32,6 @@ Results are presented in a clear, readable format designed to support real decis
 
 ---
 
-## 🧠 Fully Manual & Transparent (No AI)
-
-**MyFate** intentionally avoids AI and external APIs.
-
-- All inputs are manual
-- All logic is deterministic
-- All outcomes are explainable
-
-This ensures:
-- Privacy and reliability
-- No API costs or keys
-- No black-box decision making
-
-Students always know *why* a result appears.
-
----
-
 ## 🤝 Study Partner Matching (Free)
 
 The **Study Partners** feature helps students improve outcomes through collaboration.
